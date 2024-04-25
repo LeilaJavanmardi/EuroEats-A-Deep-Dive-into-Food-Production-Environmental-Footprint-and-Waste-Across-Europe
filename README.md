@@ -1,4 +1,4 @@
-### Project Title: Investigating Food Production, Environmental Impact, and Food Waste in European Countries
+### EuroEats: A Deep Dive into Food Production Environmental Footprint and Waste Across Europe
 
 #### Project Overview:
 The aim of this study is to explore the relationship between food production, its environmental impact, and food waste in European countries. By analyzing various datasets, we seek to understand the primary sources of food waste, the environmental implications of food production, and how European countries contribute to these impacts.
